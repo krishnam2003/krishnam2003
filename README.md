@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there! 👋 I'm Krishnam Singh
+# Hi there! 👋 I'm Krishnam Singh
 
 📍 **From:** Bhopal, India 
 🎓 **University:** Vellore Institute of Technology, Bhopal 
