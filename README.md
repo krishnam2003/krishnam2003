@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Krishnam Singh
 
-📍 **From:** Bhopal, India 
+📍 From: Bhopal, India 
 🎓 **University:** Vellore Institute of Technology, Bhopal 
 💼 **Portfolio:** https://my-portfolio-zeta-seven-22.vercel.app
 🔗 **LinkedIn:** https://www.linkedin.com/in/krishnam-singh-09a80628b/
