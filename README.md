@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there! 👋 I'm Krishnam Singh
 
 📍 **From:** Bhopal, India 
